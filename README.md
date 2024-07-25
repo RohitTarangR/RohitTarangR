@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi , I am Tarang Rohit 👋<br><br>👨🏻‍💻 Software engineer sharing about my journey and learnings in tech<br><br>🎓 Studying in Information Technology at the Silver Oak University, Ahmedabad<br><br>📫 How to reach me: rohittarang512005@gmail.com
 
 
